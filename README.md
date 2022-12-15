@@ -41,8 +41,13 @@ So learn at your pace and make the best out of this opportunity<br>
   Go through this <a href='https://www.analyticsvidhya.com/blog/2021/06/text-preprocessing-in-nlp-with-python-codes/'>article </a>about pre processing techniques NLP data and their easy python implementations and then perform the following tasks:
   <ol>
     <li>Drop unnecessary columns (ID, Source)
-    <li>Remove punctuations like . , ! $( ) * % @, URLs, Stop words
-    <li>Perform lower casing, tokenization, stemming, lemmatization
+    <li>Remove punctuations like . , ! $( ) * % @
+    <li>Remove URLs
+    <li>Perform lower casing
+    <li>Perform tokenization
+    <li>Remove Stopwords
+    <li>Perform stemming
+    <li>Perform lemmatization
   </ol>
   <h2><li>Task 3 - Exploratory Data Analysis </h2>
   Go through this <a href='https://github.com/sharmaroshan/Twitter-Sentiment-Analysis/blob/master/Twitter_Sentiment.ipynb'>article </a>about EDA techniques NLP data and their easy python implementations and then perform the following tasks:
