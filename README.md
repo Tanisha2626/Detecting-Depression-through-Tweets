@@ -17,7 +17,7 @@ So learn at your pace and make the best out of this opportunity<br>
   <h2><li> Text Pre Processing -</h2>
   Articles <a href='https://builtin.com/data-science/introduction-nlp'>1</a> and <a href='https://builtin.com/data-science/introduction-nlp'>2</a> should suffice for the introduction however you can also refer to the <a href='https://www.marktechpost.com/2022/11/30/top-natural-language-processing-nlp-tools-platforms/'>bonus article</a> <br>
   For the implementation purpose refer to top 10 videos of <a href='https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm'>this playlist</a>
-  </ol>
+  </ul>
  <h2>Assignment for Week 1</h2>
   <h3>Its time to implement what you have studied through the above mentioned resources. For this week we will not focus on extracting data and will use a <a href='https://www.kaggle.com/datasets/ywang311/twitter-sentiment'>predefined dataset.</a><br>
   This dataset has file Sentiment Analysis Dataset 2.csv having following columns:<br>
