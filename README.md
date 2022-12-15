@@ -11,7 +11,7 @@ So learn at your pace and make the best out of this opportunity<br>
 <h1><b>Week 1</b></h1>
 <h2>Study Resources</h2>
 <h3> For this week you will be brushing up your <b>Exploratory Data Analysis</b> basics,and also some basic introduction to <b>Text Pre-Processing</b></h3>
-<ol>
+<ul>
   <h2><li>Exploratory Data Analysis - </h2>
    Video number 6 - 12 of <a href='https://www.youtube.com/watch?v=GA0u6WM7_Eo&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB&index=4'>playlist</a> is suffiecient for the EDA part however if any of you does not feel confident enough in python then feel free to watch video number 4 and 5 as well. 
   <h2><li> Text Pre Processing -</h2>
@@ -27,26 +27,26 @@ So learn at your pace and make the best out of this opportunity<br>
     <li>SentimentSource : Source of tweet extraction
     <li>SentimentText : Raw text of tweet
   </ul></h3>
-  <ol>
-  <h2><li>Task 1 -</h2>
-  Go through an introduction on google colab <a href='https://www.youtube.com/playlist?list=PLA83b1JHN4ly56Y7o6vDAT8Szxc3_EdRH'>video or </a><a href ='https://medium.com/swlh/what-is-google-colab-169d5252e51d'>article</a> and implement the following:
   <ul>
+  <h2><li>Task 1 - Introduction to Collab</h2>
+  Go through an introduction on google colab <a href='https://www.youtube.com/playlist?list=PLA83b1JHN4ly56Y7o6vDAT8Szxc3_EdRH'>video </a>or <a href ='https://medium.com/swlh/what-is-google-colab-169d5252e51d'>article</a> and implement the following:
+  <ol>
     <li>Make an account on Google Colab and Mount your drive.
     <li>Upload csv file in a Google Drive folder.
     <li>Import csv in colab as DataFrame (df) (Check pd.read_csv())
     <li>Preview top 5 rows of df  (Check df.head())
     <li>Check number of Null values in each row (Check df.isnull().sum())
-  </ul>
-  <h2><li>Task 2 - </h2>
+  </ol>
+  <h2><li>Task 2 - Text Pre Processing</h2>
   Go through this <a href='https://www.analyticsvidhya.com/blog/2021/06/text-preprocessing-in-nlp-with-python-codes/'>article </a>about pre processing techniques NLP data and their easy python implementations and then perform the following tasks:
-  <ul>
+  <ol>
     <li>Drop unnecessary columns (ID, Source)
     <li>Remove punctuations like . , ! $( ) * % @, URLs, Stop words
     <li>Perform lower casing, tokenization, stemming, lemmatization
-  </ul>
-  <h2><li>Task 3 - </h2>
+  </ol>
+  <h2><li>Task 3 - Exploratory Data Analysis </h2>
   Go through this <a href='https://github.com/sharmaroshan/Twitter-Sentiment-Analysis/blob/master/Twitter_Sentiment.ipynb'>article </a>about EDA techniques NLP data and their easy python implementations and then perform the following tasks:
-  <ul>
+  <ol>
    <li>Make word cloud from the overall dataset
    <li>Make word cloud for individual classes (Positive / Negative)
    <li>Get sentence lengths (word count) for both classes’ data and make plots to check if there is a difference in tweet length of depressing and non-depressing nature
@@ -54,10 +54,11 @@ So learn at your pace and make the best out of this opportunity<br>
    <li>Check 5 examples of depressing and 5 of non-depressing tweets
    <li>Check the longest tweet in the dataset for both classes. 
      
-  </ul>
-  <h2>Task 4 - </h2>
+  </ol>
+  <h2><li>Task 4 - Setting up Github Repository</h2>
   Create a github repository by the name <i><b>Detecting Depression through Tweets</b></i> just like the one I made and store all the three tasks in it in the form of ipython notebooks before the deadline.<br>
   Feel free to refer to <a href='https://www.edureka.co/blog/how-to-use-github/'>this article</a> for an introduction to github and <a href='https://bebi103a.github.io/lessons/02/git_with_colab.html#:~:text=Pushing%20your%20notebook%20to%20the%20repository,-After%20you%20have&text=To%20do%20so%20from%20within,be%20pushed%20to%20your%20repository.'>this article</a> for uploading your colab notebooks to your github repository. 
+  </ul>
   <h1> End of Week 1 </h1>
   <h2> Deadline: 23rd of December </h2>
 
