@@ -1,9 +1,9 @@
 <h1> Instructions </h1>
 <ul>
 <li>All resources related to project will be shared here. <br>
-<li>Every weekly resource will also contain a weekly task which is expected to be completed before the next week resources are updates.<br>
+<li>Every weekly resource will also contain a weekly task which is expected to be completed before the next week resources are updated.<br>
 <li>I would highly appreciate if you keep following these weekly tasks on time since it would avoid a lot of last minute work for you guys<br>
-<li>But at the same time if any of you are not able to cover it up in given time due to whatever reason then let me know about it and try covering it up later<br>
+<li>But at the same time if any of you is not able to cover it up in given time due to whatever reason then let me know about it and try covering it up later<br>
 <li>I dont want to make any of it compulsory because i want it to be a learning experience for you all and not some madatory assignment with a hard deadline 
 So learn at your pace and make the best out of this opportunity<br>
 </ul>
