@@ -15,7 +15,7 @@ So learn at your pace and make the best out of this opportunity<br>
   <h2><li>Exploratory Data Analysis - </h2>
    Video number 6 - 12 of <a href='https://www.youtube.com/watch?v=GA0u6WM7_Eo&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB&index=4'>playlist</a> is suffiecient for the EDA part however if any of you does not feel confident enough in python then feel free to watch video number 4 and 5 as well. 
   <h2><li> Text Pre Processing -</h2>
-  Articles <a href='https://builtin.com/data-science/introduction-nlp'>1</a> and <a href='https://builtin.com/data-science/introduction-nlp'>2</a> should suffice for the introduction however you can also refer to the <a href='https://www.marktechpost.com/2022/11/30/top-natural-language-processing-nlp-tools-platforms/'>bonus article</a> <br>
+  Articles <a href='https://builtin.com/data-science/introduction-nlp'>1</a> and <a href='https://datascience.foundation/sciencewhitepaper/natural-language-processing-nlp-simplified-a-step-by-step-guide'>2</a> should suffice for the introduction however you can also refer to the <a href='https://www.marktechpost.com/2022/11/30/top-natural-language-processing-nlp-tools-platforms/'>bonus article</a> <br>
   For the implementation purpose refer to top 10 videos of <a href='https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm'>this playlist</a>
   </ul>
  <h2>Assignment for Week 1</h2>
@@ -65,7 +65,7 @@ So learn at your pace and make the best out of this opportunity<br>
   Feel free to refer to <a href='https://www.edureka.co/blog/how-to-use-github/'>this article</a> for an introduction to github and <a href='https://bebi103a.github.io/lessons/02/git_with_colab.html#:~:text=Pushing%20your%20notebook%20to%20the%20repository,-After%20you%20have&text=To%20do%20so%20from%20within,be%20pushed%20to%20your%20repository.'>this article</a> for uploading your colab notebooks to your github repository. 
   </ul>
   <h1> End of Week 1 </h1>
-  <h2> Deadline: 23rd of December </h2>
+  <h2> Deadline: 25th of December </h2>
 
 
   
