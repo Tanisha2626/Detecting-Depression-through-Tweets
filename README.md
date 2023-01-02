@@ -66,6 +66,7 @@ So learn at your pace and make the best out of this opportunity<br>
   </ul>
   <h1> End of Week 1 </h1>
   <h2> Deadline: 25th of December </h2>
+  <h2> Please find the solutions <a href='https://colab.research.google.com/drive/1mbBtHxJqkXjbvhARKfAGvLA4siKuXIyx?usp=sharing'>here</a>
   <h1><b>Week 2</b></h1>
 <h2>Study Resources</h2>
 <h3> For this week you will be learning about <b>basics of Machine Learning</b>, a popular machine learning algorithm called <b>Long Short Term Memory (LSTM).</b><br> You will also be learning <b>Vector Conversion of Words</b> and the most interesting part, <b>Scraping Twitter Data.</b></h3>
@@ -94,7 +95,7 @@ So learn at your pace and make the best out of this opportunity<br>
   We don't want to train the model everytime we run the notebook. So, we save our trained model as a .pkl (pickle file). Then, we can load it along with the required libraries (in the first cell) to get quick predictions or to improve model performance. (Take help from this <a href='https://github.com/rk-RaviKataray/Tweet_Sentiment/blob/main/tweet_sentiment_model.ipynb'>article</a> to see how to save and load back the model. You can also look at last cell in this <a href='https://www.kaggle.com/haresrv/sentiment-analysis'>article</a> to know how to save both ML model and tokenizer)
   </ul>
   <h1> End of Week 2 </h1>
-  <h2> Deadline: 2nd of Januray 2022 </h2>
+  <h2> Deadline: 5th of Januray 2022 </h2>
 
 
   
