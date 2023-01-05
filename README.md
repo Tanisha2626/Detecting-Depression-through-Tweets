@@ -97,6 +97,17 @@ So learn at your pace and make the best out of this opportunity<br>
   <h1> End of Week 2 </h1>
   <h2> Deadline: 5th of Januray 2022 </h2>
 
+<h1><b>Week 3</b></h1>
+<h3> Congratulations on making it this far. You are almost done with your project and these tasks are totally optional but a very good plus point. Do try to attempt these however your project will be assumed complete enough even with tasks of week 1 and 2.</b></h3>
+ <h2>Assignment for Week 3</h2>
+  <ul>
+  <h2><li>Task 1 - Creating functions for the live demo</h2>
+  Add some function to give a live demo on test sentences. Use the pre-trained model file (.pkl) to get the predictions. This is useful when you would like to present a live demo to your guide, at that time you won’t train the whole model again but would need the pre-trained model. (Also look np.random.seed() and torch.manual_seed() on google for reproducibility of test results)
+  <h2><li>Task 2 - Trying different models and performing polarity analysis</h2>
+  Finally, try different models to get as high accuracy as you can. Also, use a vader polarity analyzer for polarity analysis. (Take help from (7) in Resources)
+  
+  </ul>
+  <h1> End of Week 3 and the project!!!! </h1>
 
   
     
